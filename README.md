@@ -41,3 +41,4 @@ Can be extended to build chat-based or real-time network applications
 
 #OUTPUT :
 
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/77158f1b-44bd-4bc7-a820-38deafde6fcf" />
